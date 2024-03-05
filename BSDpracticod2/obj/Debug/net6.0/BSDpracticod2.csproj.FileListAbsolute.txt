@@ -1,0 +1,17 @@
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\bin\Debug\net6.0\BSDpracticod2.exe
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\bin\Debug\net6.0\jsonHelper\HtmlOneTags.json
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\bin\Debug\net6.0\jsonHelper\HtmlTags.json
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\bin\Debug\net6.0\BSDpracticod2.deps.json
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\bin\Debug\net6.0\BSDpracticod2.runtimeconfig.json
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\bin\Debug\net6.0\BSDpracticod2.dll
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\bin\Debug\net6.0\BSDpracticod2.pdb
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.csproj.AssemblyReference.cache
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.AssemblyInfoInputs.cache
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.AssemblyInfo.cs
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.csproj.CoreCompileInputs.cache
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.dll
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\refint\BSDpracticod2.dll
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.pdb
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\BSDpracticod2.genruntimeconfig.cache
+C:\myCoursesFullStack\שנה ב\פרקטיקוד\BSDpracticod2\BSDpracticod2\obj\Debug\net6.0\ref\BSDpracticod2.dll
